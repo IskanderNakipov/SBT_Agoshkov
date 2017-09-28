@@ -1,6 +1,6 @@
 public class Rectangle {
-    float a;
-    float b;
+    double a;
+    double b;
 
-    public float area() {  return a*b; }
+    public double area() {  return a*b; }
 }
